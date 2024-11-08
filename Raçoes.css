@@ -173,6 +173,21 @@ body.showCart .container_carrinho {
     height: 70px;
     margin-top: -530px;
 }
+.titulo_mais_vendidos5kg{
+    white-space: nowrap;
+    font-size: 30px;
+    margin-left: -115px;
+    font-size: 20px;
+    font-weight: bold;
+    display: block;
+}
+.texto_mais_vendidos5kg{
+    font-size: 20px;
+    margin-top: 20px;
+    display: block;
+    width: 200px;
+    margin-left: -117px;
+}
 
 .cartTab .btn button {
     background-color: #E8BC0E;
@@ -374,13 +389,12 @@ span {
       display: flex;
       flex-direction: column; /* Garante que os elementos fiquem um embaixo do outro */
   }
-  
 
   .container a {
-      margin-left: -200px;
+      margin-left: -215px;
       margin-top: 40px;
       background-color: #295377;
-      width: 300px;
+      width: 280px;
       padding: 10px;
       padding-left: 100px;
       color: white;
